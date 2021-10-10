@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444972030308",
+    "project_id": "contact-tracing-c75be",
+    "storage_bucket": "contact-tracing-c75be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444972030308:android:9f1d5c05cbae6572af0271",
+        "android_client_info": {
+          "package_name": "com.example.contacttracing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444972030308-ap8ubu0hc4auudhs89e3pjh7cv5pr1sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFiiviRfloI3dIEeupGXLFQNI_Ap1OxSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444972030308-ap8ubu0hc4auudhs89e3pjh7cv5pr1sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
